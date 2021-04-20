@@ -10,6 +10,7 @@ namespace Laba2_C_Sharp
     {
         static void Main(string[] args)
         {
+//BLA blabla
             double a, x;
             Console.WriteLine("Enter value of parametr a: (it should be number value)");
 
